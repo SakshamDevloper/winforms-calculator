@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "winforms-calculator", "winforms-calculator", "{C5F6B692-9127-50EF-9589-E3F5E6B6FE76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "winforms-calculator\CalculatorApp\CalculatorApp.csproj", "{CD48D3DB-CF6E-E59C-0FFB-20395085AAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD48D3DB-CF6E-E59C-0FFB-20395085AAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD48D3DB-CF6E-E59C-0FFB-20395085AAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD48D3DB-CF6E-E59C-0FFB-20395085AAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD48D3DB-CF6E-E59C-0FFB-20395085AAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD48D3DB-CF6E-E59C-0FFB-20395085AAA5} = {C5F6B692-9127-50EF-9589-E3F5E6B6FE76}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E6400E-AF90-4284-8903-1C8AE16E8610}
+	EndGlobalSection
+EndGlobal
